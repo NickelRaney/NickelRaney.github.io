@@ -1,9 +1,9 @@
 title: Researcher
 url: "https://nickelraney.github.io/"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
+remote_theme: ankitsultana/researcher@gem
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
