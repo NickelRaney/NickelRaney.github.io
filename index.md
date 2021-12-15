@@ -8,13 +8,13 @@ layout: Tianyi Wu
 
 ## About Me
 
-* I am a senior year student of mathematics at Peking University, majoring in computational mathematics. Currently I'm advised by Professor [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm).
+* I am a senior year student of mathematics at Peking University, majoring in computational mathematics. Currently I am advised by Professor [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm).
 
 * This is my resume.
 
 ## Research Interest
 
-I'm interested in computational neuroscience - applying mathematical tools to elucidate principles in neuroscience. My previous work mainly focused on using techniques in stochastic process and dynamical system to model [Gamma oscillation](https://en.wikipedia.org/wiki/Gamma_wave). I also worked on mathematical models capturing the function of [ipRGC](https://en.wikipedia.org/wiki/Intrinsically_photosensitive_retinal_ganglion_cell) neurons in [lateral geniculate nucleus](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus).
+I am interested in computational neuroscience - applying mathematical tools to elucidate principles in neuroscience. My previous work mainly focused on using techniques in stochastic process and dynamical system to model [Gamma oscillation](https://en.wikipedia.org/wiki/Gamma_wave). I also worked on mathematical models capturing the function of [ipRGC](https://en.wikipedia.org/wiki/Intrinsically_photosensitive_retinal_ganglion_cell) neurons in [lateral geniculate nucleus](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus).
 
 ## Papers
 
