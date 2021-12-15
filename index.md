@@ -4,7 +4,7 @@ layout: Tianyi Wu
 
 # Tianyi Wu
 
-<img src="https://github.com/NickelRaney/NickelRaney.github.io/blob/main/selfie.jpg" alt="selfie" style="zoom:20%;" />
+<img src="https://NickelRaney.github.io/blob/main/selfie.jpg" alt="selfie" style="zoom:20%;" />
 
 ## About Me
 
