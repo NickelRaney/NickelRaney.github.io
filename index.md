@@ -2,42 +2,42 @@
 layout: Tianyi Wu
 ---
 
+# Tianyi Wu
+
+<img src="C:\Users\raneyni\Documents\GitHub\NickelRaney.github.io\selfie.jpg" alt="selfie" style="zoom:20%;" />
+
 ## About Me
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+* I am a senior year student of mathematics at Peking University, majoring in computational mathematics. Currently I'm advised by Professor [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.html).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+* This is my resume.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm interested in computational neuroscience - applying mathematical tools to elucidate principles in neuroscience. My previous work mainly focused on using techniques in stochastic process and dynamical system to model [Gamma oscillation](https://en.wikipedia.org/wiki/Gamma_wave). I also worked on mathematical models capturing the function of [ipRGC](https://en.wikipedia.org/wiki/Intrinsically_photosensitive_retinal_ganglion_cell) neurons in [lateral geniculate nucleus](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus).
 
-## Publications
+## Papers
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Preprints
 
-## Typography
+1. Multiband Oscillations Emerge from a Simple Spiking Network, **Tianyi Wu**, Yuhang Cai, Ruilin Zhang, Zhongyi Wang, Louis Tao, Zhuo-Cheng Xiao. *In preparation*. [[paper]([Frontiers | Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds | Frontiers in Computational Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full))]
+2. Light Activation of Intrinsically Photosensitive Retinal Ganglion Cells Improves Visual Orientation Perception, Yiming Shi et al (**Tianyi Wu** shares the authorship). *In preparation*.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+### Journals
 
-Here is a table
+1. Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds, Yuhang Cai, **Tianyi Wu**, Louis Tao, Zhuo-Cheng Xiao. Frontiers in Computational Neuroscience, 2021. [[paper]([Frontiers | Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds | Frontiers in Computational Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full))]
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+   
 
-Here is a horizontal rule
+   
 
----
+   
 
-Here is a blockquote
+   
 
-> To a great mind, nothing is little
+   
 
-## References
+   
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+
