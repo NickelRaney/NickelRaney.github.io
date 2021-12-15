@@ -4,11 +4,11 @@ layout: Tianyi Wu
 
 # Tianyi Wu
 
-<img src="C:\Users\raneyni\Documents\GitHub\NickelRaney.github.io\selfie.jpg" alt="selfie" style="zoom:20%;" />
+<img src="https://github.com/NickelRaney/NickelRaney.github.io/blob/main/selfie.jpg" alt="selfie" style="zoom:20%;" />
 
 ## About Me
 
-* I am a senior year student of mathematics at Peking University, majoring in computational mathematics. Currently I'm advised by Professor [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.html).
+* I am a senior year student of mathematics at Peking University, majoring in computational mathematics. Currently I'm advised by Professor [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm).
 
 * This is my resume.
 
@@ -20,12 +20,12 @@ I'm interested in computational neuroscience - applying mathematical tools to el
 
 ### Preprints
 
-1. Multiband Oscillations Emerge from a Simple Spiking Network, **Tianyi Wu**, Yuhang Cai, Ruilin Zhang, Zhongyi Wang, Louis Tao, Zhuo-Cheng Xiao. *In preparation*. [[paper]([Frontiers | Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds | Frontiers in Computational Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full))]
+1. Multiband Oscillations Emerge from a Simple Spiking Network, **Tianyi Wu**, Yuhang Cai, Ruilin Zhang, Zhongyi Wang, Louis Tao, Zhuo-Cheng Xiao. *In preparation*. [[paper](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full)]
 2. Light Activation of Intrinsically Photosensitive Retinal Ganglion Cells Improves Visual Orientation Perception, Yiming Shi et al (**Tianyi Wu** shares the authorship). *In preparation*.
 
 ### Journals
 
-1. Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds, Yuhang Cai, **Tianyi Wu**, Louis Tao, Zhuo-Cheng Xiao. Frontiers in Computational Neuroscience, 2021. [[paper]([Frontiers | Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds | Frontiers in Computational Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full))]
+1. Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds, Yuhang Cai, **Tianyi Wu**, Louis Tao, Zhuo-Cheng Xiao. Frontiers in Computational Neuroscience, 2021. [[paper](https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full)]
 
    
 
