@@ -3,7 +3,7 @@ url: "https://nickelraney.github.io/"
 baseurl: "/researcher"
 
 markdown: kramdown
-remote_theme: benbalter/retlab
+theme: minima
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
