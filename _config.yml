@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
@@ -22,3 +23,8 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+=======
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> a279355d6816d9743ee285299ca31a91890eafe5
