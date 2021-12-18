@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Tianyi Wu
+
+
+
+== About me
+~~
+{}{img_left}{selfie.jpg}{alt text}{200}{150}
+I am a senior year student at the department of mathematics at Peking University, majoring in computational mathematics.\n Currently I am advised by Professor [https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm Louis Tao]. Here is my [CV.pdf CV].
+~~ 
+
+== Research interest
+I am interested in computational neuroscience - applying mathematical tools to elucidate principles in neuroscience. My previous work mainly focused on using techniques in stochastic process and dynamical system to model [https://en.wikipedia.org/wiki/Gamma_wave Gamma oscillation]. I also worked on mathematical models capturing the function of ipRGC neurons in lateral geniculate nucleus. Currently I'm working on a project focusing on the properties of a [http://arxiv.org/abs/2110.12286 novel mean-field method].
+
+== Education
+- /B.S. in Mathematics/, *Peking University*, 2017 – present
+
+== Contact
+- Phone: \+86 13693159415 \n
+- Email: raney@pku.edu.cn

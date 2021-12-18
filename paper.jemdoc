@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{paper.html}, nofooter  
+
+= Papers
+== Preprints
+. *Multiband Oscillations Emerge from a Simple Spiking Network* \n *Tianyi Wu*, Yuhang Cai, Ruilin Zhang, Zhongyi Wang, Louis Tao, Zhuo-Cheng Xiao. In preparation. \[[multiband.pdf pdf]\]
+. *Light Activation of Intrinsically Photosensitive Retinal Ganglion Cells Improves Visual Orientation Perception* \nYiming Shi et al (*Tianyi Wu* shares the authorship). In preparation.
+
+== Journals
+. *Model Reduction Captures Stochastic Gamma Oscillations on Low-Dimensional Manifolds*\n Yuhang Cai, *Tianyi Wu*, Louis Tao, Zhuo-Cheng Xiao. Frontiers in Computational Neuroscience, 2021. \[[https://www.frontiersin.org/articles/10.3389/fncom.2021.678688/full paper]\]\[[gamma_markov.pdf pdf]\]
+
+
